@@ -1,0 +1,88 @@
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+
+WARNING: Font file '/github/home/.metanorma/fonts/calibri.ttf' (font name 'Calibri', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrib.ttf' (font name 'Calibri', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrii.ttf' (font name 'Calibri', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibriz.ttf' (font name 'Calibri', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'Calibri-Italic' (font name 'Calibri-Italic', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'Calibri-Bold' (font name 'Calibri-Bold', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'Calibri-BoldItalic' (font name 'Calibri-BoldItalic', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+
+PDF/A mode is active. Embedding a PDF file may result in a non-compliant file!
+Font "Noto Sans Condensed,normal,300" not found. Substituting with "Noto Sans Condensed,normal,400".
+Font "Noto Sans Condensed,italic,300" not found. Substituting with "Noto Sans Condensed,italic,400".
+Bookmarks: Unresolved ID reference "toc_04" found.
+Page 2: Unresolved ID reference "toc_04" found.
+Page 30: Unresolved ID reference "nlftp" found.
+Page 47: Unresolved ID reference "_6fd04b68-bac5-a67e-1561-bc406be1135a" found.
+Page 71: Unresolved ID reference "nlftp" found.
+Page 80: Unresolved ID reference "nlftp" found.
+Page 160: Unresolved ID reference "nlftp" found.
+Page 161: Unresolved ID reference "nlftp" found.
+Page 168: Unresolved ID reference "real_estate_id_guidelines" found.
+Page 185: Unresolved ID reference "citygml_20" found.
+Page 306: Unresolved ID reference "nlftp" found.
+Page 307: Unresolved ID reference "nlftp" found.
+Page 308: Unresolved ID reference "nlftp" found.
+Page 311: Unresolved ID reference "nlftp" found.
+Page 314: Unresolved ID reference "nlftp" found.
+Page 320: Unresolved ID reference "maff_reservoir_hazard_maps" found.
+Page 320: Unresolved ID reference "mlit_int_flood_guidelines" found.
+Page 322: Unresolved ID reference "nlftp" found.
+Font "Arial,normal,400" not found. Substituting with "any,normal,400".
+Font "Calibri-Italic,normal,400" not found. Substituting with "any,normal,400".
+Font "Calibri-Bold,normal,400" not found. Substituting with "any,normal,400".
+Font "Calibri-BoldItalic,normal,400" not found. Substituting with "any,normal,400".
+7 link targets could not be fully resolved and now points to the top of the page or are dysfunctional.
+org.apache.fop.pdf.PDFConformanceException: For PDF/A-3a, all fonts, even the base 14 fonts, have to be embedded! Offending font: /Times-Roman
+WARNING: Trying to generate PDF in non PDF/UA-1 and non PDF/A-3a modes.
+Font "Noto Sans Condensed,normal,300" not found. Substituting with "Noto Sans Condensed,normal,400".
+Font "Noto Sans Condensed,italic,300" not found. Substituting with "Noto Sans Condensed,italic,400".
+Bookmarks: Unresolved ID reference "toc_04" found.
+Page 2: Unresolved ID reference "toc_04" found.
+Page 30: Unresolved ID reference "nlftp" found.
+Page 47: Unresolved ID reference "_6fd04b68-bac5-a67e-1561-bc406be1135a" found.
+Page 71: Unresolved ID reference "nlftp" found.
+Page 80: Unresolved ID reference "nlftp" found.
+Page 160: Unresolved ID reference "nlftp" found.
+Page 161: Unresolved ID reference "nlftp" found.
+Page 168: Unresolved ID reference "real_estate_id_guidelines" found.
+Page 185: Unresolved ID reference "citygml_20" found.
+Page 306: Unresolved ID reference "nlftp" found.
+Page 307: Unresolved ID reference "nlftp" found.
+Page 308: Unresolved ID reference "nlftp" found.
+Page 311: Unresolved ID reference "nlftp" found.
+Page 314: Unresolved ID reference "nlftp" found.
+Page 320: Unresolved ID reference "maff_reservoir_hazard_maps" found.
+Page 320: Unresolved ID reference "mlit_int_flood_guidelines" found.
+Page 322: Unresolved ID reference "nlftp" found.
+Font "Arial,normal,400" not found. Substituting with "any,normal,400".
+Font "Calibri-Italic,normal,400" not found. Substituting with "any,normal,400".
+Font "Calibri-Bold,normal,400" not found. Substituting with "any,normal,400".
+Font "Calibri-BoldItalic,normal,400" not found. Substituting with "any,normal,400".
+7 link targets could not be fully resolved and now points to the top of the page or are dysfunctional.
+WARNING: PDF generated in non PDF/UA-1 mode.
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+
+WARNING: Font file '/github/home/.metanorma/fonts/calibri.ttf' (font name 'Calibri', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrib.ttf' (font name 'Calibri', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrii.ttf' (font name 'Calibri', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibriz.ttf' (font name 'Calibri', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'inherit' (font name 'inherit', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'Calibri-Italic' (font name 'Calibri-Italic', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'Calibri-Bold' (font name 'Calibri-Bold', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'Calibri-BoldItalic' (font name 'Calibri-BoldItalic', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+

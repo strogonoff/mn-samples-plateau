@@ -1,0 +1,139 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>Project PLATEAU by MLIT</title><contributor><role type='author'/><organization><name>Ministry of Land, Infrastructure, Transportation and Tourism (MLIT) of Japan</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
+  <title type="main" format="text/plain" language="en">Handbook of 3D City Models — Standard Data Product Specification for 3D City Model</title>
+  <title type="title-intro" format="text/plain" language="en">Handbook of 3D City Models</title>
+  <title type="title-main" format="text/plain" language="en">Standard Data Product Specification for 3D City Model</title>
+  <title type="main" format="text/plain" language="ja">3D都市モデル導入のためのガイドブック — 3D都市モデル標準製品仕様書</title>
+  <title type="title-intro" format="text/plain" language="ja">3D都市モデル導入のためのガイドブック</title>
+  <title type="title-main" format="text/plain" language="ja">3D都市モデル標準製品仕様書</title>
+  <uri type="xml">documents/001-v4/document.xml</uri>
+  <uri type="pdf">documents/001-v4/document.pdf</uri>
+  <uri type="html">documents/001-v4/document.html</uri>
+  <uri type="rxl">documents/001-v4/document.rxl</uri>
+  <docidentifier type="PLATEAU" primary="true">PLATEAU 1</docidentifier>
+  <docnumber>1</docnumber>
+  <date type="published">
+    <on>2024-03-22</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>国土交通省 都市局</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>国土交通省 都市局</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="enabler"/>
+    <organization>
+      <name>（協力）内閣府 地方創生推進事務局</name>
+    </organization>
+  </contributor>
+  <edition>4</edition>
+  <version>
+    <revision-date>2024-03-22</revision-date>
+  </version>
+  <language>ja</language>
+  <script>Jpan</script>
+  <abstract>&lt;ul&gt;&lt;li&gt;&lt;p&gt;本書は、各地方公共団体等が3D都市モデルを整備する際に、その製品仕様を容易に作成でき、かつ、整備された3D都市モデルを国際標準に適合したものとすることを目的として提供する標準文書である。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;「3D都市モデル」は、都市空間をデータによって再現したもの、すなわち、現実の都市空間から必要な情報を取捨選択し、データとして記述したものである。あらゆるデータがそうであるように、3D都市モデルも何らかのソリューション（ユースケース）を創出するために整備されるものであるから、そのデータ内容や範囲等はユースケースに依存する。しかし、ユースケースごとに異なる仕様の3D都市モデルを整備することはデータ作成の観点から非効率であり、多用途への展開を考慮する場合は流通性や再利用性を阻害する懸念がある。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3D都市モデルの流通性・再利用性を高め、様々な分野・用途での利用に資するデータとするためには、「標準」に適合することが重要である。本書は、地理空間データに関する標準化団体であるOpen Geospatial Consortium（OGC）が策定した3D 都市モデルのためのオープンデータモデル及びデータ形式の国際標準である「CityGML」と、このCityGMLの拡張規則であるApplication Domain Extension（ADE）に基づき内閣府地方創生推進事務局が都市再生に必要なデータを拡張した「i-都市再生技術仕様（案）」（i-UR）を我が国における3D都市モデルの標準仕様として採用し、「標準製品仕様」として示すものである。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;標準製品仕様は、CityGML及びi-URに準拠して作成され、 Project PLATEAUの2020年度、2021年度、 2022年度及び2023年度の成果を踏まえ、様々な地物やその属性の定義、また、品質要求及び評価手順を示している。さらに、必要な地物等に過不足があった場合に、国際標準に準拠しつつ3D都市モデルをカスタマイズするための規則を示している。そのため、3D都市モデルを整備する場合には、本書を参照することで、国際標準に準拠した3D都市モデルの製品仕様（以下、「拡張製品仕様」と呼ぶ）を作成できる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;今後、3D都市モデルの整備主体が、本書を参照し、ユースケースに応じた拡張製品仕様を作成することで、国際標準に適合した3D都市モデルが整備され、様々な分野での利用が促進されることを期待する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</abstract>
+  <status>
+    <stage>60</stage>
+  </status>
+  <copyright>
+    <from>2024</from>
+    <owner>
+      <organization>
+        <name>国土交通省 都市局</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>handbook</doctype>
+    <structuredidentifier>
+      <docnumber/>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
+  <title type="main" format="text/plain" language="en">Handbook of 3D City Models — Standard Implementation Procedures for 3D City Model</title>
+  <title type="title-intro" format="text/plain" language="en">Handbook of 3D City Models</title>
+  <title type="title-main" format="text/plain" language="en">Standard Implementation Procedures for 3D City Model</title>
+  <title type="main" format="text/plain" language="ja">3D都市モデル導入のためのガイドブック — 3D都市モデル標準作業手順書</title>
+  <title type="title-intro" format="text/plain" language="ja">3D都市モデル導入のためのガイドブック</title>
+  <title type="title-main" format="text/plain" language="ja">3D都市モデル標準作業手順書</title>
+  <uri type="xml">documents/002-v4/document.xml</uri>
+  <uri type="pdf">documents/002-v4/document.pdf</uri>
+  <uri type="html">documents/002-v4/document.html</uri>
+  <uri type="rxl">documents/002-v4/document.rxl</uri>
+  <docidentifier type="PLATEAU" primary="true">PLATEAU 2</docidentifier>
+  <docnumber>2</docnumber>
+  <date type="published">
+    <on>2024-03-22</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>国土交通省 都市局</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>国土交通省 都市局</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="enabler"/>
+    <organization>
+      <name>（協力）内閣府 地方創生推進事務局</name>
+    </organization>
+  </contributor>
+  <edition>4</edition>
+  <version>
+    <revision-date>2024-03-22</revision-date>
+  </version>
+  <language>ja</language>
+  <script>Jpan</script>
+  <abstract>&lt;ul&gt;&lt;li&gt;&lt;p&gt;本書は、各地方公共団体等が「3D 都市モデル標準製品仕様書」（以下、「標準製品仕様書」と呼ぶ）を参照し、3D 都市モデル製品仕様書を作成する手順、作成した製品仕様書に基づき 3D 都市モデルを整備する標準的な手順、整備した 3D 都市モデルを国際標準に適合したものとするために守るべき事項を示す技術文書である。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;標準製品仕様書には、 Project PLATEAU の 2020 年度、2021 年度及び 2022 年度の成果を踏まえ、様々な地物やその属性の定義や品質要求及び評価手順等が網羅的に示されている。そのため、3D 都市モデルの利用目的・方法・対象範囲等（ユースケース）に応じて、標準製品仕様書をカスタマイズし、都市ごとの 3D 都市モデルの製品仕様書（以下、「拡張製品仕様書」と呼ぶ）を作成できる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;標準製品仕様書では、3D 都市モデルの流通性や再利用性を確保するため、地理空間データに関する標準化団体である Open Geospatial Consortium（OGC）が策定した 3D 都市モデルのためのオープンデータモデル及びデータ形式の国際標準である「CityGML」と、この CityGML の拡張規則である Application Domain Extension（ADE）に基づき内閣府地方創生推進事務局が都市再生に必要なデータを拡張した「i-都市再生技術仕様（案）」（i-UR）を標準として採用している。拡張製品仕様書についても、これらの標準に準拠することが望ましい。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;そこで、本書は、標準製品仕様書を参照し、それぞれの 3D 都市モデルに対応する拡張製品仕様書を作成する具体的な手順を示す。また、既存データを活用する場合のほか、新規に取得したデータを使う場合など、3D 都市モデルを整備する標準的な手順を示す。さらに、3D 都市モデルが国際標準に適合したデータになるよう、作業時に遵守すべき事項、注意すべき事項をとりまとめている。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;今後、3D 都市モデルの整備主体が本書を参照することで、国際標準に適合した 3D 都市モデルが整備され、様々な分野での利用が促進されることを期待する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</abstract>
+  <status>
+    <stage>60</stage>
+  </status>
+  <copyright>
+    <from>2024</from>
+    <owner>
+      <organization>
+        <name>国土交通省 都市局</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>handbook</doctype>
+    <structuredidentifier>
+      <docnumber/>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+</relaton-collection>

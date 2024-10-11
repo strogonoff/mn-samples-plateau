@@ -1,0 +1,299 @@
+WARNING: Font file '/github/home/.metanorma/fonts/calibri.ttf' (font name 'Calibri', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrib.ttf' (font name 'Calibri', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrii.ttf' (font name 'Calibri', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibriz.ttf' (font name 'Calibri', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'Calibri-Bold' (font name 'Calibri-Bold', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'YuGothicUI-Bold' (font name 'YuGothicUI-Bold', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+
+Font "Noto Sans Condensed,normal,300" not found. Substituting with "Noto Sans Condensed,normal,400".
+The contents of fo:region-body on page 718 exceed its viewport by 93025 millipoints. (See position 1:2159)
+Page 265: Unresolved ID reference "__x4f5c___x696d___x898f___x7a0b___x306e___x6e96___x5247___x3000___x4ed8___x9332___xff17___x516c___x5171___x6e2c___x91cf___x6a19___x6e96___x56f3___x5f0f_" found.
+1 link target could not be fully resolved and now point to the top of the page or is dysfunctional.
+SVG graphic could not be built. Reason: java.lang.NullPointerException
+java.lang.NullPointerException
+	at org.apache.batik.css.engine.CSSEngine.parseStyleSheet(CSSEngine.java:1225)
+	at org.apache.batik.css.engine.CSSEngine.parseStyleSheet(CSSEngine.java:1204)
+	at org.apache.batik.anim.dom.SVGOMStyleElement.getCSSStyleSheet(SVGOMStyleElement.java:140)
+	at org.apache.batik.css.engine.CSSEngine.getStyleSheetNodes(CSSEngine.java:923)
+	at org.apache.batik.css.engine.CSSEngine.getCascadedStyleMap(CSSEngine.java:785)
+	at org.apache.batik.css.engine.CSSEngine.getComputedStyle(CSSEngine.java:867)
+	at org.apache.batik.bridge.CSSUtilities.getComputedStyle(CSSUtilities.java:81)
+	at org.apache.batik.bridge.CSSUtilities.convertVisibility(CSSUtilities.java:578)
+	at org.apache.batik.bridge.SVGSVGElementBridge.createGraphicsNode(SVGSVGElementBridge.java:141)
+	at org.apache.batik.bridge.GVTBuilder.build(GVTBuilder.java:76)
+	at org.apache.fop.render.pdf.PDFImageHandlerSVG.handleImage(PDFImageHandlerSVG.java:104)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:255)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:211)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingImageHandler(AbstractIFPainter.java:174)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingDocument(AbstractIFPainter.java:325)
+	at org.apache.fop.render.pdf.PDFPainter.drawImage(PDFPainter.java:291)
+	at org.apache.fop.render.intermediate.IFParser$Handler$ImageHandler.endElement(IFParser.java:799)
+	at org.apache.fop.render.intermediate.IFParser$Handler.endElement(IFParser.java:413)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.endElement(TransformerIdentityImpl.java:1149)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:610)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1718)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2883)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.transform(TransformerIdentityImpl.java:519)
+	at org.metanorma.fop.PDFGenerator.runFOP(PDFGenerator.java:638)
+	at org.metanorma.fop.PDFGenerator.convertmn2pdf(PDFGenerator.java:489)
+	at org.metanorma.fop.PDFGenerator.process(PDFGenerator.java:320)
+	at org.metanorma.fop.mn2pdf.main(mn2pdf.java:338)
+
+SVG error: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+org.w3c.dom.DOMException: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+	at org.apache.batik.css.engine.CSSEngine.getCascadedStyleMap(CSSEngine.java:824)
+	at org.apache.batik.css.engine.CSSEngine.getComputedStyle(CSSEngine.java:867)
+	at org.apache.batik.bridge.CSSUtilities.getComputedStyle(CSSUtilities.java:81)
+	at org.apache.batik.bridge.CSSUtilities.convertDisplay(CSSUtilities.java:563)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:206)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:219)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.build(GVTBuilder.java:82)
+	at org.apache.fop.render.pdf.PDFImageHandlerSVG.handleImage(PDFImageHandlerSVG.java:104)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:255)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:211)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingImageHandler(AbstractIFPainter.java:174)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingDocument(AbstractIFPainter.java:325)
+	at org.apache.fop.render.pdf.PDFPainter.drawImage(PDFPainter.java:291)
+	at org.apache.fop.render.intermediate.IFParser$Handler$ImageHandler.endElement(IFParser.java:799)
+	at org.apache.fop.render.intermediate.IFParser$Handler.endElement(IFParser.java:413)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.endElement(TransformerIdentityImpl.java:1149)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:610)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1718)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2883)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.transform(TransformerIdentityImpl.java:519)
+	at org.metanorma.fop.PDFGenerator.runFOP(PDFGenerator.java:638)
+	at org.metanorma.fop.PDFGenerator.convertmn2pdf(PDFGenerator.java:489)
+	at org.metanorma.fop.PDFGenerator.process(PDFGenerator.java:320)
+	at org.metanorma.fop.mn2pdf.main(mn2pdf.java:338)
+
+SVG error: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+org.w3c.dom.DOMException: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+	at org.apache.batik.css.engine.CSSEngine.getCascadedStyleMap(CSSEngine.java:824)
+	at org.apache.batik.css.engine.CSSEngine.getComputedStyle(CSSEngine.java:867)
+	at org.apache.batik.bridge.CSSUtilities.getComputedStyle(CSSUtilities.java:81)
+	at org.apache.batik.bridge.CSSUtilities.convertDisplay(CSSUtilities.java:563)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:206)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:219)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.build(GVTBuilder.java:82)
+	at org.apache.fop.render.pdf.PDFImageHandlerSVG.handleImage(PDFImageHandlerSVG.java:104)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:255)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:211)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingImageHandler(AbstractIFPainter.java:174)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingDocument(AbstractIFPainter.java:325)
+	at org.apache.fop.render.pdf.PDFPainter.drawImage(PDFPainter.java:291)
+	at org.apache.fop.render.intermediate.IFParser$Handler$ImageHandler.endElement(IFParser.java:799)
+	at org.apache.fop.render.intermediate.IFParser$Handler.endElement(IFParser.java:413)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.endElement(TransformerIdentityImpl.java:1149)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:610)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1718)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2883)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.transform(TransformerIdentityImpl.java:519)
+	at org.metanorma.fop.PDFGenerator.runFOP(PDFGenerator.java:638)
+	at org.metanorma.fop.PDFGenerator.convertmn2pdf(PDFGenerator.java:489)
+	at org.metanorma.fop.PDFGenerator.process(PDFGenerator.java:320)
+	at org.metanorma.fop.mn2pdf.main(mn2pdf.java:338)
+
+org.apache.fop.pdf.PDFConformanceException: For PDF/A-3a, all fonts, even the base 14 fonts, have to be embedded! Offending font: /Helvetica
+WARNING: Trying to generate PDF in non PDF/UA-1 and non PDF/A-3a modes.
+Font "Noto Sans Condensed,normal,300" not found. Substituting with "Noto Sans Condensed,normal,400".
+The contents of fo:region-body on page 718 exceed its viewport by 93025 millipoints. (See position 1:2159)
+Page 265: Unresolved ID reference "__x4f5c___x696d___x898f___x7a0b___x306e___x6e96___x5247___x3000___x4ed8___x9332___xff17___x516c___x5171___x6e2c___x91cf___x6a19___x6e96___x56f3___x5f0f_" found.
+1 link target could not be fully resolved and now point to the top of the page or is dysfunctional.
+SVG graphic could not be built. Reason: java.lang.NullPointerException
+java.lang.NullPointerException
+	at org.apache.batik.css.engine.CSSEngine.parseStyleSheet(CSSEngine.java:1225)
+	at org.apache.batik.css.engine.CSSEngine.parseStyleSheet(CSSEngine.java:1204)
+	at org.apache.batik.anim.dom.SVGOMStyleElement.getCSSStyleSheet(SVGOMStyleElement.java:140)
+	at org.apache.batik.css.engine.CSSEngine.getStyleSheetNodes(CSSEngine.java:923)
+	at org.apache.batik.css.engine.CSSEngine.getCascadedStyleMap(CSSEngine.java:785)
+	at org.apache.batik.css.engine.CSSEngine.getComputedStyle(CSSEngine.java:867)
+	at org.apache.batik.bridge.CSSUtilities.getComputedStyle(CSSUtilities.java:81)
+	at org.apache.batik.bridge.CSSUtilities.convertVisibility(CSSUtilities.java:578)
+	at org.apache.batik.bridge.SVGSVGElementBridge.createGraphicsNode(SVGSVGElementBridge.java:141)
+	at org.apache.batik.bridge.GVTBuilder.build(GVTBuilder.java:76)
+	at org.apache.fop.render.pdf.PDFImageHandlerSVG.handleImage(PDFImageHandlerSVG.java:104)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:255)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:211)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingImageHandler(AbstractIFPainter.java:174)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingDocument(AbstractIFPainter.java:325)
+	at org.apache.fop.render.pdf.PDFPainter.drawImage(PDFPainter.java:291)
+	at org.apache.fop.render.intermediate.IFParser$Handler$ImageHandler.endElement(IFParser.java:799)
+	at org.apache.fop.render.intermediate.IFParser$Handler.endElement(IFParser.java:413)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.endElement(TransformerIdentityImpl.java:1149)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:610)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1718)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2883)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.transform(TransformerIdentityImpl.java:519)
+	at org.metanorma.fop.PDFGenerator.runFOP(PDFGenerator.java:638)
+	at org.metanorma.fop.PDFGenerator.convertmn2pdf(PDFGenerator.java:497)
+	at org.metanorma.fop.PDFGenerator.process(PDFGenerator.java:320)
+	at org.metanorma.fop.mn2pdf.main(mn2pdf.java:338)
+
+SVG error: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+org.w3c.dom.DOMException: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+	at org.apache.batik.css.engine.CSSEngine.getCascadedStyleMap(CSSEngine.java:824)
+	at org.apache.batik.css.engine.CSSEngine.getComputedStyle(CSSEngine.java:867)
+	at org.apache.batik.bridge.CSSUtilities.getComputedStyle(CSSUtilities.java:81)
+	at org.apache.batik.bridge.CSSUtilities.convertDisplay(CSSUtilities.java:563)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:206)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:219)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.build(GVTBuilder.java:82)
+	at org.apache.fop.render.pdf.PDFImageHandlerSVG.handleImage(PDFImageHandlerSVG.java:104)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:255)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:211)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingImageHandler(AbstractIFPainter.java:174)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingDocument(AbstractIFPainter.java:325)
+	at org.apache.fop.render.pdf.PDFPainter.drawImage(PDFPainter.java:291)
+	at org.apache.fop.render.intermediate.IFParser$Handler$ImageHandler.endElement(IFParser.java:799)
+	at org.apache.fop.render.intermediate.IFParser$Handler.endElement(IFParser.java:413)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.endElement(TransformerIdentityImpl.java:1149)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:610)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1718)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2883)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.transform(TransformerIdentityImpl.java:519)
+	at org.metanorma.fop.PDFGenerator.runFOP(PDFGenerator.java:638)
+	at org.metanorma.fop.PDFGenerator.convertmn2pdf(PDFGenerator.java:497)
+	at org.metanorma.fop.PDFGenerator.process(PDFGenerator.java:320)
+	at org.metanorma.fop.mn2pdf.main(mn2pdf.java:338)
+
+SVG error: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+org.w3c.dom.DOMException: <unknown>:
+The attribute "style" represents an invalid CSS declaration ("fill:#737A7A;stroke:#737A7A;stroke-width:6.250000e-02;stroke-miterlimit:10;").
+Original message:
+The "stroke-width" property does not support dimension values.
+	at org.apache.batik.css.engine.CSSEngine.getCascadedStyleMap(CSSEngine.java:824)
+	at org.apache.batik.css.engine.CSSEngine.getComputedStyle(CSSEngine.java:867)
+	at org.apache.batik.bridge.CSSUtilities.getComputedStyle(CSSUtilities.java:81)
+	at org.apache.batik.bridge.CSSUtilities.convertDisplay(CSSUtilities.java:563)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:206)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.buildGraphicsNode(GVTBuilder.java:219)
+	at org.apache.batik.bridge.GVTBuilder.buildComposite(GVTBuilder.java:171)
+	at org.apache.batik.bridge.GVTBuilder.build(GVTBuilder.java:82)
+	at org.apache.fop.render.pdf.PDFImageHandlerSVG.handleImage(PDFImageHandlerSVG.java:104)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:255)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImage(AbstractIFPainter.java:211)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingImageHandler(AbstractIFPainter.java:174)
+	at org.apache.fop.render.intermediate.AbstractIFPainter.drawImageUsingDocument(AbstractIFPainter.java:325)
+	at org.apache.fop.render.pdf.PDFPainter.drawImage(PDFPainter.java:291)
+	at org.apache.fop.render.intermediate.IFParser$Handler$ImageHandler.endElement(IFParser.java:799)
+	at org.apache.fop.render.intermediate.IFParser$Handler.endElement(IFParser.java:413)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.endElement(TransformerIdentityImpl.java:1149)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:610)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1718)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2883)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.transform(TransformerIdentityImpl.java:519)
+	at org.metanorma.fop.PDFGenerator.runFOP(PDFGenerator.java:638)
+	at org.metanorma.fop.PDFGenerator.convertmn2pdf(PDFGenerator.java:497)
+	at org.metanorma.fop.PDFGenerator.process(PDFGenerator.java:320)
+	at org.metanorma.fop.mn2pdf.main(mn2pdf.java:338)
+
+WARNING: PDF generated in non PDF/UA-1 mode.
+WARNING: Font file '/github/home/.metanorma/fonts/calibri.ttf' (font name 'Calibri', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrib.ttf' (font name 'Calibri', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibrii.ttf' (font name 'Calibri', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font file '/github/home/.metanorma/fonts/calibriz.ttf' (font name 'Calibri', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'YuGothicUI-Regular' (font name 'YuGothicUI-Regular', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'Calibri-Bold' (font name 'Calibri-Bold', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'YuGothicUI-Bold' (font name 'YuGothicUI-Bold', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'MS-PGothic' (font name 'MS-PGothic', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'ArialMT' (font name 'ArialMT', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
+WARNING: Font 'KozGoPr6N-Regular-83pv-RKSJ-H' (font name 'KozGoPr6N-Regular-83pv-RKSJ-H', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
+
